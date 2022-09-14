@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "DREAM GARDEN",
   "resources": [
+    {"id":{"name":"cagadaysexo","path":"sprites/cagadaysexo/cagadaysexo.yy",},"order":16,},
     {"id":{"name":"sex","path":"sprites/sex/sex.yy",},"order":15,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
